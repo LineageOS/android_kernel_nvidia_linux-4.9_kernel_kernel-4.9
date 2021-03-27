@@ -18,10 +18,6 @@
  },
 
  {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_abca",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/abca"
- },
- {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/batuu/kernel-dts"
  },
@@ -30,40 +26,16 @@
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/common"
  },
  {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_ers",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/ers"
- },
- {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/foster"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_fpga",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/fpga"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_hawkeye",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/hawkeye"
  },
  {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/jetson"
  },
  {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_misc",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/misc"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_orca",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/orca"
- },
- {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/porg"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_vcm",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/vcm"
  },
  {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
@@ -71,24 +43,8 @@
  },
 
  {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_abca",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/abca"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/common"
- },
- {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/darcy"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/ers"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_porg",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/porg"
  },
  {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
@@ -115,10 +71,6 @@
  {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t19x/common"
- },
- {
-   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_bct",
-   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t19x/galen/bct"
  },
  {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
