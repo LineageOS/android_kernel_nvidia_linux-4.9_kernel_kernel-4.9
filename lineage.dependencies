@@ -22,6 +22,10 @@
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/abca"
  },
  {
+   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/batuu/kernel-dts"
+ },
+ {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/common"
  },
@@ -96,6 +100,10 @@
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t18x/common"
  },
  {
+   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t18x/lanai"
+ },
+ {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t18x/quill"
  },
@@ -119,6 +127,10 @@
  {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
    "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t19x/jakku/kernel-dts"
+ },
+ {
+   "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+   "target_path": "kernel/nvidia/linux-4.9/hardware/nvidia/platform/t19x/mccoy/kernel-dts"
  },
  {
    "repository": "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
