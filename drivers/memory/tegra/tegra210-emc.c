@@ -2336,7 +2336,7 @@ static struct resource tegra210_init_emc_data_smc(struct platform_device *pdev)
 	size = regs.args[0];
 
 	table.start = base;
-	table.end = base + size;
+	table.end = base + size - 1;
 	table.flags = IORESOURCE_MEM;
 
 	return table;
@@ -2391,7 +2391,8 @@ static int tegra210_init_emc_data(struct platform_device *pdev)
 
 		tegra_emc_table_normal = devm_ioremap_resource(&pdev->dev, &table_res);
 		tegra_emc_table_derated = NULL;
-		tegra_emc_table_size = 10;
+		tegra_emc_table_size = (table_res.end - table_res.start + 1) /
+					sizeof(struct emc_table);
 	} else {
 		tegra_emc_dt_parse_pdata(pdev, &tegra_emc_table_normal,
 			&tegra_emc_table_derated, &tegra_emc_table_size);
